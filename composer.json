@@ -1,9 +1,6 @@
 {
-    "name": "administrator/yii2-wechat",
-    "description": "WeChat class based on yii2 framework",
-    "require-dev": {
-        "php": ">=5.4.0"
-    },
+    "name": "25ma/yii2-wechat",
+    "description": "\u0016WeChat class based on yii2 framework",
     "license": "Apache-2.0",
     "authors": [
         {
